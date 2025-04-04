@@ -280,7 +280,7 @@
     {
         "id": "points_sonic_4x",
         "name": "Sonic Points Program",
-        "description": "Earn 4x Sonic Activity points for supplying LBTC or wETH. Receive a share of the 200M S airdrop!",
+        "description": "Earn 4x Sonic Activity points for supplying wETH or LBTC. Receive a share of the 200M S airdrop!",
         "value": "4",
         "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
         "icon": "sonic.svg",
@@ -317,7 +317,7 @@
     {
         "id": "points_sonic_12x",
         "name": "Sonic Points Program",
-        "description": "Earn 12x Sonic Activity points for supplying scUSD, USDC.e. Receive a share of the 200M S airdrop!",
+        "description": "Earn 12x Sonic Activity points for supplying USDC.e or scUSD. Receive a share of the 200M S airdrop!",
         "value": "12",
         "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
         "icon": "sonic.svg",
